@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stanleyljean
-- 👀 I’m interested in embedded devices  
+- 👀 I’m interested in AMD Opteron  
 - 🌱 I’m currently learning all programng languages 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me by email stanleyl.jean@gmail.com
